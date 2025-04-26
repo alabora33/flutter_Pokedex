@@ -1,4 +1,4 @@
-# alparen
+# Pokedex App
 
 A new Flutter project.
 
